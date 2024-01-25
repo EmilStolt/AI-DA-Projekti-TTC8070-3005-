@@ -11,7 +11,7 @@ Tästä löytyy kaikkiin projektin vaiheisiin linkit
 
 ## Vaihe 1: CRISP-DM: "Business Understanding"
 
-Linkki vaiheen yksi dokumenttiin: [[Business Understanding](https://github.com/EmilStolt/AI-DA-Projekti-TTC8070-3005-/blob/main/Business_Understanding.md)
+Linkki vaiheen yksi dokumenttiin: [Business Understanding](https://github.com/EmilStolt/AI-DA-Projekti-TTC8070-3005-/blob/main/Business_Understanding.md)
 
 ## Vaihe 2: CRISP-DM: "Data Understanding"
 
