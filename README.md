@@ -11,31 +11,29 @@ Tästä löytyy kaikkiin projektin vaiheisiin linkit
 
 ## Vaihe 1: CRISP-DM: "Business Understanding"
 
-Linkki vaiheen yksi dokumenttiin: [Business Understanding](https://gitlab.labranet.jamk.fi/AB7033/ai-da-projekti-ttc8070-3005-ryhma-3/-/blob/main/CRISP-DM/Business_Understanding.md)
+Linkki vaiheen yksi dokumenttiin: [[Business Understanding](https://github.com/EmilStolt/AI-DA-Projekti-TTC8070-3005-/blob/main/Business_Understanding.md)
 
 ## Vaihe 2: CRISP-DM: "Data Understanding"
 
-Linkki vaiheen kaksi dokumenttiin: [Data Understanding](https://gitlab.labranet.jamk.fi/AB7033/ai-da-projekti-ttc8070-3005-ryhma-3/-/blob/c1a9e9803cc73be5745d11e2e21bb1a8b996c2f1/CRISP-DM/Data_Understanding.ipynb)  
-Datan visualisointia: [Car brands](https://gitlab.labranet.jamk.fi/AB7033/ai-da-projekti-ttc8070-3005-ryhma-3/-/blob/main/testeja/AutomerkkienVisualisointia.ipynb)  
-Datan visualisointia: [Days on market](https://gitlab.labranet.jamk.fi/AB7033/ai-da-projekti-ttc8070-3005-ryhma-3/-/blob/main/testeja/Visualisointia.ipynb)
+Linkki vaiheen kaksi dokumenttiin: [Data Understanding](https://github.com/EmilStolt/AI-DA-Projekti-TTC8070-3005-/blob/main/Data_Understanding.ipynb)  
+Datan visualisointia: [Car brands](https://github.com/EmilStolt/AI-DA-Projekti-TTC8070-3005-/blob/main/AutomerkkienVisualisointia.ipynb)  
+Datan visualisointia: [Days on market](https://github.com/EmilStolt/AI-DA-Projekti-TTC8070-3005-/blob/main/Visualisointia.ipynb)
 
 ## Vaihe 3: CRISP-DM: "Data Preparation"
 
-Linkki vaiheen kolme dokumenttiin: [Data Preparation](https://gitlab.labranet.jamk.fi/AB7033/ai-da-projekti-ttc8070-3005-ryhma-3/-/blob/main/testeja/Cleaned_data.ipynb)
+Linkki vaiheen kolme dokumenttiin: [Data Preparation](https://github.com/EmilStolt/AI-DA-Projekti-TTC8070-3005-/blob/main/Cleaned_data.ipynb)
 
 ## Vaiheet 4 ja 5: CRISP-DM: "Modeling" ja "Evaluation"
 
-Linkki vaiheen kaksi dokumenttiin: [Modeling](https://gitlab.labranet.jamk.fi/AB7033/ai-da-projekti-ttc8070-3005-ryhma-3/-/blob/main/testeja/MallinnuksiaDatalle.ipynb)
+Linkki vaiheen kaksi dokumenttiin: [Modeling](https://github.com/EmilStolt/AI-DA-Projekti-TTC8070-3005-/blob/main/MallinnuksiaDatalle.ipynb)
 
 ## Vaihe 6: CRISP-DM: "Deployment"
 
-Linkki vaiheen kuusi dokumenttiin: [Deployment](https://gitlab.labranet.jamk.fi/AB7033/ai-da-projekti-ttc8070-3005-ryhma-3/-/blob/main/CRISP-DM/Deployment.md)
+Linkki vaiheen kuusi dokumenttiin: [Deployment](https://github.com/EmilStolt/AI-DA-Projekti-TTC8070-3005-/blob/main/Deployment.md)
 
-Linkki sovelluksen koodiin: [Sovelluksen koodi](https://gitlab.labranet.jamk.fi/AB7033/ai-da-projekti-ttc8070-3005-ryhma-3/-/blob/main/testeja/deploy_test.py)
+Linkki sovelluksen koodiin: [Sovelluksen koodi](https://github.com/EmilStolt/AI-DA-Projekti-TTC8070-3005-/blob/main/deploy_test.py)
 
-Linkki sovelluksen demoon: [Sovelluksen demo](testeja/Video/video5931722744.mp4)
-
-Linkki loppuraporttiin: [Loppuraportti](https://gitlab.labranet.jamk.fi/AB7033/ai-da-projekti-ttc8070-3005-ryhma-3/-/blob/main/testeja/Loppuraportti.ipynb)
+Linkki loppuraporttiin: [Loppuraportti](https://github.com/EmilStolt/AI-DA-Projekti-TTC8070-3005-/blob/main/Loppuraportti.ipynb)
 
 
 
